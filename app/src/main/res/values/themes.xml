@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.PlayingWithTransitions.Base" parent="Theme.MaterialComponents.Light.NoActionBar">
+    </style>
+
+    <style name="Theme.PlayingWithTransitions.Login" parent="Theme.PlayingWithTransitions.Base">
+        <item name="android:statusBarColor">@color/color_surface</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+</resources>

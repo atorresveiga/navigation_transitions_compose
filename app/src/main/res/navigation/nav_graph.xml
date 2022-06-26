@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/productListFragment">
+
+    <fragment
+        android:id="@+id/prologueFragment"
+        android:name="com.atorresveiga.playingwithtransitions.ui.fragments.PrologueFragment"
+        android:label="PrologueFragment" >
+        <action
+            android:id="@+id/action_store_login"
+            app:destination="@id/siteLoginFragment"
+            app:enterAnim="@anim/slide_enter"
+            app:exitAnim="@anim/slide_exit"
+            app:popEnterAnim="@anim/slide_pop_enter"
+            app:popExitAnim="@anim/slide_pop_exit"
+            />
+    </fragment>
+
+    <fragment
+        android:id="@+id/siteLoginFragment"
+        android:name="com.atorresveiga.playingwithtransitions.ui.fragments.SiteLoginFragment"
+        android:label="SiteLoginFragment" />
+    <fragment
+        android:id="@+id/productListFragment"
+        android:name="com.atorresveiga.playingwithtransitions.ui.fragments.ProductListFragment"
+        android:label="ProductListFragment" >
+        <action
+            android:id="@+id/action_products_to_detail"
+            app:destination="@id/productDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/productDetailFragment"
+        android:name="com.atorresveiga.playingwithtransitions.ui.fragments.ProductDetailFragment"
+        android:label="ProductDetailFragment" >
+        <argument
+            android:name="productId"
+            app:argType="integer" />
+    </fragment>
+
+
+</navigation>

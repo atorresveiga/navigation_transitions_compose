@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Playing with transitions</string>
+
+    <string name="default_title">Title</string>
+    <string name="back">Back</string>
+
+    <string name="prologue_analytics">Track sales and high performing products</string>
+    <string name="prologue_orders">Manage your store orders on the go</string>
+    <string name="prologue_products">Edit and add new products from anywhere</string>
+    <string name="prologue_reviews">Monitor and approve your product reviews</string>
+
+    <string name="product_description">$%1s • $%1s</string>
+    <string name="in_stock">in stock</string>
+    <string name="out_stock">out of stock</string>
+
+    <string name="product_list_item_transition_name">product_list_item$%1d</string>
+    <string name="product_detail_transition_name">product_detail</string>
+</resources>

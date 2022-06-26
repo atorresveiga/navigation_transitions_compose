@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/java/com/atorresveiga/playingwithtransitions/ui/composables/Action.kt" value="0.36727272727272725" />
+        <entry key="app/src/main/java/com/atorresveiga/playingwithtransitions/ui/composables/Buttons.kt" value="0.7154046997389034" />
+        <entry key="app/src/main/java/com/atorresveiga/playingwithtransitions/ui/composables/HelpAction.kt" value="0.2936596218020022" />
+        <entry key="app/src/main/java/com/atorresveiga/playingwithtransitions/ui/composables/Prologue.kt" value="0.24366554054054054" />
+        <entry key="app/src/main/java/com/atorresveiga/playingwithtransitions/ui/composables/ProloguePager.kt" value="0.2574074074074074" />
+        <entry key="app/src/main/java/com/atorresveiga/playingwithtransitions/ui/screens/HelpSupportScreen.kt" value="0.25" />
+        <entry key="app/src/main/java/com/atorresveiga/playingwithtransitions/ui/screens/ProductDetailsScreen.kt" value="0.17645797598627788" />
+        <entry key="app/src/main/java/com/atorresveiga/playingwithtransitions/ui/screens/PrologueScreen.kt" value="0.165" />
+        <entry key="app/src/main/java/com/atorresveiga/playingwithtransitions/ui/screens/SiteLoginScreen.kt" value="0.165" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.263" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.263" />
+        <entry key="app/src/main/res/drawable/ic_product.xml" value="0.241" />
+        <entry key="app/src/main/res/drawable/img_prologue_analytics.xml" value="0.263" />
+        <entry key="app/src/main/res/drawable/img_prologue_bg.xml" value="0.263" />
+        <entry key="app/src/main/res/drawable/img_prologue_orders.xml" value="0.263" />
+        <entry key="app/src/main/res/drawable/img_prologue_products.xml" value="0.263" />
+        <entry key="app/src/main/res/drawable/img_prologue_reviews.xml" value="0.263" />
+        <entry key="app/src/main/res/drawable/img_woo_logo.xml" value="0.263" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.29981884057971014" />
+        <entry key="app/src/main/res/layout/fragment_product_list.xml" value="0.29981884057971014" />
+        <entry key="app/src/main/res/layout/list_item_product.xml" value="0.29981884057971014" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
